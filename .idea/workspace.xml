@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="210383e0-2096-4dd9-9700-cfa26a1a7fec" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/data/pic/doudizhu.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -17,8 +18,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="342">
-                <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+              <first_editor relative-caret-position="228">
+                <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
               </first_editor>
               <second_editor />
             </state>
@@ -38,10 +39,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-12" />
-    <option name="y" value="-12" />
-    <option name="width" value="306" />
-    <option name="height" value="1107" />
+    <option name="x" value="1123" />
+    <option name="y" value="115" />
+    <option name="width" value="1296" />
+    <option name="height" value="630" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -55,6 +56,17 @@
               <item name="ddz-ai" type="b2602c69:ProjectViewProjectNode" />
               <item name="ddz-ai" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="ddz-ai" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ddz-ai" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ddz-ai" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ddz-ai" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="pic" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -63,6 +75,9 @@
     </panes>
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\freefuii\Desktop\新建文件夹\ddz-ai\data\pic" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\freefuii\Desktop\新建文件夹\ddz-ai\data\pic" />
     </key>
@@ -119,8 +134,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="342">
-            <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+          <first_editor relative-caret-position="228">
+            <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
           </first_editor>
           <second_editor />
         </state>
