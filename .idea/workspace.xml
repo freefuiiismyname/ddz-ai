@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="210383e0-2096-4dd9-9700-cfa26a1a7fec" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/pic/evaluate-model.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/pic/fight-model-actor.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/pic/fight-model-critic.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/pic/yield-model.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="210383e0-2096-4dd9-9700-cfa26a1a7fec" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,8 +14,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="361">
-                <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
+              <first_editor relative-caret-position="323">
+                <caret line="17" column="4" lean-forward="true" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
               </first_editor>
               <second_editor />
             </state>
@@ -58,17 +51,6 @@
             <path>
               <item name="ddz-ai" type="b2602c69:ProjectViewProjectNode" />
               <item name="ddz-ai" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ddz-ai" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ddz-ai" type="462c0819:PsiDirectoryNode" />
-              <item name="data" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ddz-ai" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ddz-ai" type="462c0819:PsiDirectoryNode" />
-              <item name="data" type="462c0819:PsiDirectoryNode" />
-              <item name="pic" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -109,7 +91,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2494043" />
@@ -134,8 +115,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="361">
-            <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
+          <first_editor relative-caret-position="323">
+            <caret line="17" column="4" lean-forward="true" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
           </first_editor>
           <second_editor />
         </state>
